@@ -240,3 +240,7 @@ ul li {
 .cd-timeline__gray{
     background-color: #d4d4d4;
 }
+
+img-100 {
+    width: 100%;
+}

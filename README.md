@@ -12,10 +12,6 @@
 
 ## 友社
 
-+ [國立中興大學資訊工程學系系學會](https://www.facebook.com/NCHU.CSESA)
-+ [國立中興大學資訊科學研習社](https://www.facebook.com/it.nchu)
-+ [興大志工隊](https://www.facebook.com/NCHUVolunteerTeam)
-+ [NCHU Google Developer Student Club](https://www.facebook.com/GDSCNCHU)
 + [國立中興大學動畫漫畫社](https://www.facebook.com/GuoLiZhongXingDaXueDongHuaManHuaShe)
 
 ---
