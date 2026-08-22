@@ -26,6 +26,10 @@ a:hover {
     transition: color 300ms;
 }
 
+b {
+    font-weight: 600;
+}
+
 h1.title {
     color: #333;
     display: block;
